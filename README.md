@@ -1,5 +1,5 @@
 # My first project
 
-## Project name: fe-78
+## Project name: goit-markup-hw-01
 
 Author: Anna Osadchuk
